@@ -1,3 +1,6 @@
 # Project 1: SQL
 
-This project is due on **Tuesday, 2/2/2021 at 11:59PM PST (GMT-8)**. Follow the instructions [here](https://cs186.gitbook.io/project/assignments/proj1) to get started.
+This is my implementation for CS186 project1: SQL. You can find the project specification [here](https://github.com/PKUFlyingPig/CS186/blob/master/project-handout/proj1/getting-started.md) and other learning materials for CS186 [here](https://github.com/PKUFlyingPig/CS186).
+
+
+
